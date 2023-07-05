@@ -1,0 +1,27 @@
+2023-07-05 20:53:46.455 [info] 
+
+
+
+
+2023-07-05 20:53:46.455 [info] Extension host agent started.
+2023-07-05 20:53:46.465 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-05 20:53:46.484 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-05 20:53:46.672 [info] [127.0.0.1][11c78608][ManagementConnection] New connection established.
+2023-07-05 20:53:46.789 [info] Installing extensions...
+2023-07-05 20:53:46.994 [info] [127.0.0.1][fd1f227b][ExtensionHostConnection] New connection established.
+2023-07-05 20:53:47.026 [info] [127.0.0.1][fd1f227b][ExtensionHostConnection] <701> Launched Extension Host Process.
+2023-07-05 20:53:47.454 [info] Installing extension 'ms-ceintl.vscode-language-pack-de'...
+2023-07-05 20:53:47.932 [info] Getting Manifest... ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:48.015 [info] Installing extension: ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.429 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.561 [info] Extracted extension to /root/.vscode-server/extensions/.9ff030ad-f588-49de-9498-d2f0a19f142e: ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.571 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-de-1.79.2023061409
+2023-07-05 20:53:50.573 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.577 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.632 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-de
+2023-07-05 20:53:50.633 [info] Extension 'ms-ceintl.vscode-language-pack-de' v1.79.2023061409 was successfully installed.
+2023-07-05 20:59:29.345 [info] [127.0.0.1][11c78608][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-05 20:59:29.358 [info] [127.0.0.1][fd1f227b][ExtensionHostConnection] <701> Extension Host Process exited with code: 0, signal: null.
+2023-07-05 20:59:31.166 [info] [127.0.0.1][42f79438][ManagementConnection] New connection established.
+2023-07-05 20:59:31.378 [info] [127.0.0.1][062f27b8][ExtensionHostConnection] New connection established.
+2023-07-05 20:59:31.381 [info] [127.0.0.1][062f27b8][ExtensionHostConnection] <840> Launched Extension Host Process.
