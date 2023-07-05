@@ -1,4 +1,3 @@
 #Test-Repository
-Dies ist mein erstes *GitHub-Reporsitory*.
-Die Datei **git-test.cpp** enthält eine Variante des berühmten
-*Hell-World*-Programms.
+Dies ist mein erstes *GitHub-Repository*.
+Die Datei **git-test.cpp** enthält eine Variante des berühmten *Hello-World*-Programms.
